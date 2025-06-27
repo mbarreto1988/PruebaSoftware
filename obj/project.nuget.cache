@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "c0Lpstxxp+k=",
+  "dgSpecHash": "z56kPTyubaY=",
   "success": true,
   "projectFilePath": "C:\\Users\\barre\\Desktop\\PruebaPruebaDeSoftware\\PruebaColaPrioridad\\PruebaColaPrioridad.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\barre\\.nuget\\packages\\coverlet.collector\\6.0.4\\coverlet.collector.6.0.4.nupkg.sha512"
+  ],
   "logs": []
 }
