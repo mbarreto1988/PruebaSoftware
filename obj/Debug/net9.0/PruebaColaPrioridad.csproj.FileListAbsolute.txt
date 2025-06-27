@@ -1,0 +1,14 @@
+C:\Users\barre\Desktop\PruebaPruebaDeSoftware\PruebaColaPrioridad\bin\Debug\net9.0\PruebaColaPrioridad.exe
+C:\Users\barre\Desktop\PruebaPruebaDeSoftware\PruebaColaPrioridad\bin\Debug\net9.0\PruebaColaPrioridad.deps.json
+C:\Users\barre\Desktop\PruebaPruebaDeSoftware\PruebaColaPrioridad\bin\Debug\net9.0\PruebaColaPrioridad.runtimeconfig.json
+C:\Users\barre\Desktop\PruebaPruebaDeSoftware\PruebaColaPrioridad\bin\Debug\net9.0\PruebaColaPrioridad.dll
+C:\Users\barre\Desktop\PruebaPruebaDeSoftware\PruebaColaPrioridad\bin\Debug\net9.0\PruebaColaPrioridad.pdb
+C:\Users\barre\Desktop\PruebaPruebaDeSoftware\PruebaColaPrioridad\obj\Debug\net9.0\PruebaColaPrioridad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barre\Desktop\PruebaPruebaDeSoftware\PruebaColaPrioridad\obj\Debug\net9.0\PruebaColaPrioridad.AssemblyInfoInputs.cache
+C:\Users\barre\Desktop\PruebaPruebaDeSoftware\PruebaColaPrioridad\obj\Debug\net9.0\PruebaColaPrioridad.AssemblyInfo.cs
+C:\Users\barre\Desktop\PruebaPruebaDeSoftware\PruebaColaPrioridad\obj\Debug\net9.0\PruebaColaPrioridad.csproj.CoreCompileInputs.cache
+C:\Users\barre\Desktop\PruebaPruebaDeSoftware\PruebaColaPrioridad\obj\Debug\net9.0\PruebaColaPrioridad.dll
+C:\Users\barre\Desktop\PruebaPruebaDeSoftware\PruebaColaPrioridad\obj\Debug\net9.0\refint\PruebaColaPrioridad.dll
+C:\Users\barre\Desktop\PruebaPruebaDeSoftware\PruebaColaPrioridad\obj\Debug\net9.0\PruebaColaPrioridad.pdb
+C:\Users\barre\Desktop\PruebaPruebaDeSoftware\PruebaColaPrioridad\obj\Debug\net9.0\PruebaColaPrioridad.genruntimeconfig.cache
+C:\Users\barre\Desktop\PruebaPruebaDeSoftware\PruebaColaPrioridad\obj\Debug\net9.0\ref\PruebaColaPrioridad.dll
